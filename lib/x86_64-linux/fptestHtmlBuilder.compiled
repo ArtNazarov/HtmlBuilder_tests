@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1683474143"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/artem/HtmlBuilder_tests/lib/x86_64-linux -Fu/usr/lib/lazarus/components/fpcunit/lib/x86_64-linux/qt5 -Fu/usr/lib/lazarus/components/synedit/units/x86_64-linux/qt5 -Fu/usr/lib/lazarus/lcl/units/x86_64-linux/qt5 -Fu/usr/lib/lazarus/lcl/units/x86_64-linux -Fu/usr/lib/lazarus/components/freetype/lib/x86_64-linux -Fu/usr/lib/lazarus/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/packager/units/x86_64-linux -Fu/home/artem/HtmlBuilder_tests/ -FU/home/artem/HtmlBuilder_tests/lib/x86_64-linux/ -FE/home/artem/HtmlBuilder_tests/ -o/home/artem/HtmlBuilder_tests/fptestHtmlBuilder -dLCL -dLCLqt5 fptestHtmlBuilder.lpr"/>
+</CONFIG>

@@ -7,8 +7,9 @@
       <Unit>
         <Filename Value="fptestHtmlBuilder.lpr"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="1"/>
-        <CursorPos X="3" Y="4"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="75" Y="6"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -22,8 +23,7 @@
       <Unit>
         <Filename Value="test_replacers.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <CursorPos X="20"/>
+        <CursorPos X="2" Y="9"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -34,6 +34,14 @@
         <EditorIndex Value="-1"/>
         <CursorPos X="3" Y="25"/>
         <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="urepeatexpressiontests.pas"/>
+        <UnitName Value="uRepeatExpressionTests"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="28" Y="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
       </Unit>
     </Units>
     <JumpHistory>

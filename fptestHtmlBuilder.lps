@@ -7,11 +7,9 @@
       <Unit>
         <Filename Value="fptestHtmlBuilder.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="2"/>
-        <CursorPos X="75" Y="6"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18" Y="7"/>
         <UsageCount Value="20"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="test_replacers_applyvar.pas"/>
@@ -23,9 +21,10 @@
       <Unit>
         <Filename Value="test_replacers.pas"/>
         <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
         <CursorPos X="2" Y="9"/>
         <UsageCount Value="20"/>
-        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="test_replacers_applyimage.pas"/>
@@ -38,18 +37,26 @@
       <Unit>
         <Filename Value="urepeatexpressiontests.pas"/>
         <UnitName Value="uRepeatExpressionTests"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="-1"/>
         <CursorPos X="5" Y="7"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="StringCacheTest.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="9"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../rangeshtml/ranges_loop_replicator.pas"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="327"/>
+        <CursorPos X="23" Y="362"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory>
-      <Position>
-        <Filename Value="fptestHtmlBuilder.lpr"/>
-        <Caret Line="11" Column="18"/>
-      </Position>
-    </JumpHistory>
+    <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>

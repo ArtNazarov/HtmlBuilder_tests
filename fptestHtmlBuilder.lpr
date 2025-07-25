@@ -3,7 +3,8 @@ program fptestHtmlBuilder;
 {$mode objfpc}{$H+}
 
 uses
-  Interfaces, Forms, GuiTestRunner, test_replacers, uRepeatExpressionTests  ;
+  Interfaces, Forms, GuiTestRunner, test_replacers, uRepeatExpressionTests,
+  StringCacheTest;
 
 {$R *.res}
 
